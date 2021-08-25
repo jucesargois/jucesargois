@@ -12,7 +12,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jucesargois-kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Jucesargois-kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Jucesargois-Ts" height="33" width="62" src="https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=800">
   
   <img align="right" alt="Rafa-yoda" height="150" width="150" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif">

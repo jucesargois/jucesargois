@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente cursando Tecnologia em Analise e Desenvolvimento de Sistemas.
-- 🌱 Estudando Desenvolvimento Mobile - Flutter, Android Studio.
+- 🌱 Estudando Desenvolvimento Mobile - Flutter, Dart.
 - ##### Somente projetos originais.
  
 

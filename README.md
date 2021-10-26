@@ -16,7 +16,7 @@
   <img align="center" alt="Jucesargois-kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Jucesargois-Ts"  src="https://img.icons8.com/color/48/000000/dart.png">
   
-  <img align="right" alt="Rafa-yoda" height="150" width="150" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif">
+  <img align="right" alt="flutter" height="205" width="400" src="https://media.giphy.com/media/TLaDluUpSbCKsSskMm/giphy.gif">
 </div>  
 
   ##

@@ -1,7 +1,7 @@
 ### Olá, eu sou o Julio Cesar Gois 👋
 
 
-- 🔭 Atualmente cursando Tecnologia em Analise e Desenvolvimento de Sistemas.
+- 🔭 Formado em Tecnologia em Analise e Desenvolvimento de Sistemas.
 - 🌱 Estudando Desenvolvimento Mobile - Flutter, Dart.
 - ##### Somente projetos originais de minha autoria.
  

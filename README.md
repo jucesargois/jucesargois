@@ -3,7 +3,7 @@
 
 - 🔭 Formado em Tecnologia em Analise e Desenvolvimento de Sistemas.
 - 🌱 Estudando Desenvolvimento Mobile - Flutter, Dart.
-- ##### Somente projetos originais de minha autoria.
+
  
 
 <div>

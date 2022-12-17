@@ -2,7 +2,7 @@
 
 
 - 🔭 Formado em Tecnologia em Analise e Desenvolvimento de Sistemas.
-- 🌱 Estudando Desenvolvimento Mobile - Flutter, Dart.
+- 🌱 Estudando automatização de fluxos de dados entre sistemas com Apache NiFi.
 -  Trabalhando com desenvolvimento back-end - Nest.js, Node.js, Typescript, Apache NIFI.
 
  

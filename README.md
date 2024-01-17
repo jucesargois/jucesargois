@@ -4,7 +4,7 @@
 - 🔭 Formado em Tecnologia em Analise e Desenvolvimento de Sistemas.
 - 🌱 Estudando automatização de fluxos de dados entre sistemas com Apache NiFi.
 -  Trabalhando com desenvolvimento back-end - Nest.js, Node.js, Typescript, Apache NIFI, C#.
--  Atualmente trabalhando como Software Development Analyst.
+-  Software Development Analyst.
  
 
 <div>

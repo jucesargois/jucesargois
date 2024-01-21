@@ -2,7 +2,7 @@
 
 
 - 🔭 Formado em Tecnologia em Analise e Desenvolvimento de Sistemas.
-- 🌱 Estudando automatização de fluxos de dados entre sistemas com Apache NiFi e Java.
+- 🌱 Estudando custom processors para o apache NiFi.
 -  Trabalhando com desenvolvimento back-end - Nest.js, Node.js, Typescript, Apache NIFI, C#.
 -  Software Development Analyst.
  

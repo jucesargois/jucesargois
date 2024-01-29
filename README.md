@@ -1,8 +1,8 @@
 ### Olá, eu sou o Julio Cesar Gois 👋
 
 
-- 🔭 Formado em Tecnologia em Analise e Desenvolvimento de Sistemas.
-- 🌱 Estudando custom processors(Apache NiFi).
+-  Formado em Tecnologia em Analise e Desenvolvimento de Sistemas.
+-  Estudando custom processors(Apache NiFi).
 -  Trabalhando com desenvolvimento back-end - Nest.js, Node.js, Typescript, Apache NIFI, C#.
 -  Software Development Analyst Jr.
  
